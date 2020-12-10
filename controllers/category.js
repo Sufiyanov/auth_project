@@ -14,6 +14,6 @@ module.exports.create = function(req, res) {
 
 }
 
-module.exports.patch = function(req, res) {
+module.exports.update = function(req, res) {
 
 }
