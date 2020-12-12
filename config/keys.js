@@ -1,3 +1,4 @@
 module.exports = {
-    mongoURI: 'mongodb://user:passw0rd@127.0.0.1:27017/fullstack'
+    mongoURI: 'mongodb://user:passw0rd@192.168.56.101:27017/fullstack',
+    jsonwebtoken: 'dev-jsonwetoken'
 }
