@@ -25,7 +25,7 @@ module.exports.login =  async function(req, res) {
         }
     } else {
         res.status(404).json({
-            message: 'Такого пользователя'
+            message: 'Такого пользователя нет'
     })
 }
 };
